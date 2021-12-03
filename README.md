@@ -31,21 +31,4 @@ The UI is inspired by [Dribbble](https://dribbble.com/shots/10847147-Coronavirus
   - Login authentication using Firebase
   - Maps API to detect nearby danger spots
 
-*Feel free to fork and contribute to include these features.* ❤︎
 
-## 🚀 Technologies
-
-  - [Flutter v1.17.4](https://storage.googleapis.com/flutter_infra/releases/stable/windows/flutter_windows_1.17.4-stable.zip)
-  - [Dart v2.8.4](https://dart.dev/get-dart)
-
-## 🤝 Contribute
-
-To contribute, fork the repository and push the changes to the **master** branch. Then submit a pull request for merging with the source. If your code passes the review and checks it will be merged into the master branch.
-
-## 💬 Feedback
-
-Feel free to send us feedback on [Twitter](https://twitter.com/gitpointapp) or [file an issue](https://github.com/arafaysaleem/covid_tracker/issues/new). Feature requests are always welcome.
-
-## 📝 License
-
-Licensed under the [MIT License](./LICENSE).
